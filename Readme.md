@@ -1,5 +1,7 @@
-# hello!!
-me dumb + me stup + me programmer
+# hello!! 👋🦶
+
+me dumb + me stup + me programmer 😊☺️
+
 (i've hiden all of my repos 'cause i am afraid of your opinion (they're bad))
 
 # THE BEST OS EVER - GOVNOS
