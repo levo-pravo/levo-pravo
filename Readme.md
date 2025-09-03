@@ -6,10 +6,3 @@ me dumb + me stup + me programmer 😊☺️
 
 ![my stats](https://github-readme-stats.vercel.app/api?username=levo-pravo&theme=dark&show_icons=true&hide_border=true&count_private=true)
 ![my langs](https://github-readme-stats.vercel.app/api/top-langs/?username=levo-pravo&theme=dark&show_icons=true&hide_border=true&layout=compact)
-
-# THE BEST OS EVER - GOVNOS
-
-## https://github.com/xi816/gc32
-
-
-[@xi816](https://github.com/xi816) is the best linux schoolboy ever
